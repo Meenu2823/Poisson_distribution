@@ -1,4 +1,4 @@
-# DATE :
+## Date :
 # EXP NO-2 : Fitting Poisson  distribution
 # Aim : 
 
